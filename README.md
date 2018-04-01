@@ -22,5 +22,13 @@ GND     = GND
 D8 on NodeMCU v2
 
 ###### The servo
-D4 on NodeMCU v2 
+D4 on NodeMCU v2
+
+### Libraries
+
+###### FastLED
+[GitHub Repository](https://github.com/FastLED/FastLED)
+
+###### MF RC522
+Included in /lib/rfid
 
